@@ -1,0 +1,22 @@
+body {
+	background: hsl(120, 20%, 12%);
+	padding:50px;
+}
+
+p{
+    color: crimson;
+    font-size: 30px;
+    text-align: center;
+}
+
+ 
+table {
+	margin: 0 auto;
+	background: black;
+}
+td {
+    width: 80px; height: 80px;
+}
+ 
+.white{background:white}
+.black{background:black}
